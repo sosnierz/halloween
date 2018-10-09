@@ -61,10 +61,7 @@ space.addEventListener("change", function(){
   textInput.textContent = space.value;
   });
 
-// space.forEach(input => input.addEventListener("change", function(){
-//   textInput.textContent = this.value;
-  
-// }));
+
 
 
 
